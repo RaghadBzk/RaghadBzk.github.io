@@ -7,6 +7,7 @@ import Project6 from "./assets/project6.png";
 import Project7 from "./assets/project7.png";
 import Project8 from "./assets/project8.png";
 import Project9 from "./assets/project9.png";
+import project10 from "./assets/project10.png";
 
 // import Testimonial1 from './assets/testimonial1.jpg';
 // import Testimonial2 from './assets/testimonial2.jpg';
@@ -258,7 +259,7 @@ export const projects = [
     title: "Lertna",
     path: "https://lertnafront.expentech.com",
     description:
-      "A project to issue grades for middle school students with username:0965111076 and password:password.",
+      "A project for balance transfers and online bill payments in Syria with username:0965111076 and password:password.",
       description1:
       'Number of Font Team: 2',
   },
@@ -272,6 +273,16 @@ export const projects = [
     description: "A project to connect with a robot to detect rubble",
     description1:
     'Number of Font Team: only me',
+  },
+  {
+    id: 10,
+    img: project10,
+    category: "React",
+    title: "Elearning Platform",
+    path: "https://elearning-web.expentech.com/",
+    description: "A project for an educational platform for students.",
+    description1:
+    'Number of Font Team: 2',
   },
 ];
 
@@ -301,10 +312,10 @@ export const cv = [
     subtitle: "EXPentech solution, syria",
     date: "July 2022 - PRESENT",
     description:
-      "Designed UI & integrated code for +4 front-end projects using React.",
+      "Design UI & integrate code for +4 front-end projects using React.",
 
     description1:
-      "Designed UI for +2 projects using pure HTML5,CSS3,Bootstrap.",
+      "Design UI for +2 projects using pure HTML5,CSS3,Bootstrap.",
 
     description2: "Write clean code, fix bugs and solve problems.",
     description3: "Collaborate with design team to create user interfaces.",
@@ -330,9 +341,9 @@ export const cv = [
     subtitle: "Tatweer, syria",
     date: "July 2020 - July 2022",
     description:
-      "Designed UI & integrated code for +3 front-end projects using Angular.",
+      "Design UI & integrate code for +3 front-end projects using Angular.",
     description1:
-      "Developed and maintained code for +1 back-end project using Asp.net and Oracle.",
+      "Develop and maintaine code for +1 back-end project using Asp.net and Oracle.",
     description2:
       "Communicate with customer, collect and discuss requirements.",
     category: "experience",

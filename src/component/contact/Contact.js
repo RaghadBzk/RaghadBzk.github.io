@@ -63,7 +63,7 @@ export const Contact = () => {
               <FaRegMap />
             </span>
             <h3 className="contact__card-title text-cs">Address</h3>
-            <p className="contact__card-data">Dubai, UAE</p>
+            <p className="contact__card-data">United Arab Emirates</p>
           </div>
           <div className="contact__card">
             <span className="contact__card-icon">
@@ -85,7 +85,7 @@ export const Contact = () => {
               <FaRegAddressBook />
             </span>
             <h3 className="contact__card-title">Phone</h3>
-            <p className="contact__card-data">+963 991846242</p>
+            <p className="contact__card-data"> 0551 397 990</p>
           </div>
         </div>
         {/* <StyledContactForm> */}
