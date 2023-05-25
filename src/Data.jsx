@@ -348,6 +348,19 @@ export const cv = [
       "Communicate with customer, collect and discuss requirements.",
     category: "experience",
   },
+  {
+    id: 7,
+    title: " FrontEnd Developer",
+    subtitle: "E-Tech Group, Freelancer ",
+    date: "Mar 2018 - July 2020",
+    description:
+      "Design UI & integrate code for +1  Ecommerce project using ReactJS.",
+    description1:
+      "Collaborate with other team members to define, design, and ship new features.",
+    description2:
+      "Write clean code, fix bugs and solve problems.",
+    category: "experience",
+  },
 ];
 
 export const photos = [

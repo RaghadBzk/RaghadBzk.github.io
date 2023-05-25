@@ -73,7 +73,7 @@ export const Home = () => {
                 />
                 <p className="home__data home__data-one">
                   <span className="text-lg">
-                    3 <b>+</b>
+                    5 <b>+</b>
                   </span>
                   <span className="text-sm text-cs">
                     Years of <span>Experience</span>
